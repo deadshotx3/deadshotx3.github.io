@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ jekyll-theme-hacker }}";
+@import "{{ site.theme }}";
 
 // Custom styles
 $body-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
