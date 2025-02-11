@@ -1,1 +1,1 @@
----personal musings on the state of the world---
+---personal musings on a variety of things---
